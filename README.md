@@ -1,3 +1,3 @@
-# ECS 171 Group 1 Project Code
+# SKLearn Heart Disease Predictor
 
-See the files above for our Python code from data, programming, and UI/UX teams. The files include our data preprocessing, the different models we tried, and the user interface built from a Jupyter Notebook.
+See the files above for the Python code from data, programming, and UI/UX teams. The files include our data preprocessing, the different models we tried, and the user interface built from a Jupyter Notebook.
